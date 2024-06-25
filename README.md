@@ -2,7 +2,7 @@
 
 # My Name is Sharul!
 
-### I love working with Python, SwiftUi, and know some simple javascript along with web basics!
+### I love working with Swift, minor python, and some simple javascript along with web basics!
 
 > [![trophy](https://github-profile-trophy.vercel.app/?username=Immortal215&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
