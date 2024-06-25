@@ -2,4 +2,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Immortal215&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-https://camo.githubusercontent.com/2b9a2649481100e96d3bf01090b2ab1fce39e6817485df935d588eae17d73488/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d646861726e656567616e2673686f775f69636f6e733d74727565266c6f63616c653d656e
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
