@@ -8,7 +8,7 @@
 
 > ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Immortal215&layout=compact)
 
-> [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/ap/wakatime?username=Immortal215)](https://github.com/anuraghazra/github-readme-stats)
+> [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Immortal215)](https://github.com/anuraghazra/github-readme-stats)
 
 > [!IMPORTANT]
 > Not *fully* accurate as data gathering started __much__ later in my coding journey and WakaTime does not really work effectivley
