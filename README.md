@@ -4,7 +4,7 @@
 
 ### I love working with SwiftUi, minor Python, and some simple Javascript along with web basics!
 
-> [![trophy](https://github-profile-trophy.vercel.app/?username=Immortal215&rank=-C))](https://github.com/ryo-ma/github-profile-trophy)
+> [![trophy](https://github-profile-trophy.vercel.app/?username=Immortal215&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
 
 > ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Immortal215&layout=compact)
 
