@@ -11,4 +11,4 @@
 > [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Immortal215)](https://github.com/anuraghazra/github-readme-stats)
 
 > [!NOTE]
-> Not *fully* accurate as data gathering started __much__ later in my coding journey
+> Stats not *fully* accurate as data gathering started __much__ later in my coding journey
