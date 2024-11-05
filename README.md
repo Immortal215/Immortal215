@@ -5,7 +5,7 @@
 ### I'm a new developer that loves working with SwiftUi, C++, and Python!
 
 * 🌍  I'm based in Illinois
-* 🚀  I'm currently working on [The Drawing Board](http://github.com/Immortal215/The-Drawing-Board-Swift)
+* 🚀  I'm currently working on [PHS Connect](http://github.com/Immortal215/PHS-Connect)
 * 🧠  I'm learning C++
 
 > [![trophy](https://github-profile-trophy.vercel.app/?username=Immortal215)](https://github.com/ryo-ma/github-profile-trophy)
