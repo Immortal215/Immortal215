@@ -8,10 +8,10 @@
 * 🚀  I'm currently working on [PHS Connect](http://github.com/Immortal215/PHS-Connect)
 * 🧠  I'm learning C++
 
-> [![trophy](https://github-profile-trophy.vercel.app/?username=Immortal215)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- > [![trophy](https://github-profile-trophy.vercel.app/?username=Immortal215)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Immortal215&hide=Rich%20Text%20Format&layout=compact)
-
+> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Immortal215&hide=Rich%20Text%20Format,c%23&layout=compact&size_weight=0.5&count_weight=0.5)
+ 
 ### Skills
 
 <p align="left">
