@@ -10,7 +10,7 @@
 
 <!-- > [![trophy](https://github-profile-trophy.vercel.app/?username=Immortal215)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Immortal215&hide=Rich%20Text%20Format,c%23&layout=compact&size_weight=0.5&count_weight=0.5)
+> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Immortal215&hide=Rich%20Text%20Format,c%23&layout=compact&size_weight=1)
  
 ### Skills
 
