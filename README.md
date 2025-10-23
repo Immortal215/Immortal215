@@ -2,7 +2,7 @@
 
 # My Name is Sharul!
 
-### I'm a new developer that loves working with SwiftUi, C++, and Python!
+### I'm a new developer that primarily works in SwiftUI!
 
 * 🌍  I'm based in Illinois
 * 🚀  I'm currently working on [PHS Connect](http://github.com/Immortal215/PHS-Connect)
