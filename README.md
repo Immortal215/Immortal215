@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# My Name is Sharul!
+
 
 ### I'm a new developer that primarily works in SwiftUI!
 
